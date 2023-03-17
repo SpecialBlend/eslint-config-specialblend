@@ -1,12 +1,12 @@
 {
   "name": "@specialblend/eslint-config-specialblend",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "true"
   },
-  "devDependencies": {
+  "peerDependencies": {
     "@typescript-eslint/eslint-plugin": "^5.55.0",
     "@typescript-eslint/parser": "^5.55.0",
     "eslint": "^8.36.0",
