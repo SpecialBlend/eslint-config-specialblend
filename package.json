@@ -9,7 +9,7 @@
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "*",
     "@typescript-eslint/parser": "*",
-    "eslint-config-prettier": "*",
+    "eslint-config-import": "*",
     "eslint-plugin-prettier": "*"
   },
   "peerDependencies": {
